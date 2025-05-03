@@ -15,7 +15,7 @@ Daniels is a clean and modern personal portfolio website template. It’s ideal 
 ## 📸 Screenshots
 
 ![Screenshot](https://github.com/abdallahelsobky/Daniels/blob/b9db50494a53fe03a28e3ef113afb2e79cfaae6e/Screenshot%202025-05-04%20014610.png) 
-![Screenshot]() 
+![Screenshot](https://github.com/abdallahelsobky/Daniels/blob/11588cccdd018d0d275c2db0a314b68b2cfba1e7/Screenshot%202025-05-03%20005736.png) 
 
 ## 🚀 Features
 
