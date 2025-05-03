@@ -15,7 +15,7 @@ Daniels is a clean and modern personal portfolio website template. It’s ideal 
 - Smooth scroll animations
 - Filterable portfolio section
 - Skills progress bars
-- Contact form UI (non-functional)
+- Contact form UI 
 - Bootstrap-based layout
 - Font Awesome icons
 
